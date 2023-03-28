@@ -1,0 +1,5 @@
+#Foi usado o FlaUInspector para os scans.
+#!!Essa versão só é compatível com python 3.7 - 3.10!!
+#Documentação: https://github.com/GDATASoftwareAG/robotframework-flaui
+
+robotframework-flaui
